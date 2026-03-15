@@ -11,3 +11,9 @@ Our evaluation combined error-rate comparisons, tolerance-band analysis with a p
 logistic regression. Across most demographics, model error rates were consistent, and confidence intervals fell within the predefined tolerance band, indicating no 
 meaningful performance differences. For race/ethnicity, point estimates remain small, but subgroup sample sizes were limited, resulting in wide confidence intervals and 
 underpowered tests, with inconclusive evidence within the dataset we explored. These findings illustrate a rigorous and regulator-aligned approach to fairness evaluation in administrative healthcare AI systems.
+
+This repository hosts a preprint of our paper.
+
+The official archival version will appear on arXiv shortly.
+
+Copyright © 2026 Authors. All rights reserved.
